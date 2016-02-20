@@ -1,0 +1,28 @@
+name: CustomDigital
+favicon: null
+layout_spectrum: 0.22452866495586932
+typography_spectrum: 0.8198549919761717
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2682004552334547
+  lightness: 0.8366384587716311
+  saturation: 0.7077884506434202
+  rhythmicContrast: 0.4776693540625274
+purpose: []
